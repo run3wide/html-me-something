@@ -1,0 +1,55 @@
+html {
+    background: black;
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    color: wheat;
+    text-align: center;
+}
+
+h3 {
+    color: wheat;
+    text-align: center;
+}
+
+hr {
+    width: 1200px;
+}
+
+
+p {
+    color: white;
+    margin-right: 200px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: auto;
+    padding: 50px;
+}
+
+.copyright {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+#intro {
+    font-size: large;
+}
